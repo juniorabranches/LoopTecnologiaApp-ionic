@@ -1,1 +1,2 @@
-# LoopTecnologiaApp-ionic
+# LoopTecApp
+Loop Tecnologia App
